@@ -1,0 +1,84 @@
+sebas@pc-sebas:~/ULL/2º/cuatri2/aeda/7/P7/build$ ./main.o
+[1] Modo Demostración
+[2] Modo Estadístico
+1
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+1
+11111111
+Nivel 0: [11111111]
+Nivel 1: [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+1
+44444444
+Nivel 0: [11111111]
+Nivel 1: [.] [44444444]
+Nivel 2: [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+1
+88888888
+Nivel 0: [44444444]
+Nivel 1: [11111111] [88888888]
+Nivel 2: [.] [.] [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+1
+00000001
+Nivel 0: [44444444]
+Nivel 1: [11111111] [88888888]
+Nivel 2: [1] [.] [.] [.]
+Nivel 3: [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+1
+22222222
+Nivel 0: [44444444]
+Nivel 1: [11111111] [88888888]
+Nivel 2: [1] [22222222] [.] [.]
+Nivel 3: [.] [.] [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+1
+33333333
+Nivel 0: [22222222]
+Nivel 1: [11111111] [44444444]
+Nivel 2: [1] [.] [33333333] [88888888]
+Nivel 3: [.] [.] [.] [.] [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+2
+22222222
+Nivel 0: [11111111]
+Nivel 1: [1] [44444444]
+Nivel 2: [.] [.] [33333333] [88888888]
+Nivel 3: [.] [.] [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
+2
+00000001
+Nivel 0: [44444444]
+Nivel 1: [11111111] [88888888]
+Nivel 2: [.] [33333333] [.] [.]
+Nivel 3: [.] [.]
+
+Traza de AVL - Sebastián Daniel Tamayo Guzmán
+[1] Insertar
+[2] Eliminar
